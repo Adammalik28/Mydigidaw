@@ -1,6 +1,11 @@
 # Mydigidaw
 
+[![Unduh APK](https://img.shields.io/badge/Download-APK%20v2.2-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Adammalik28/Mydigidaw/releases/latest)
+
 Aplikasi Android produktivitas all-in-one yang dibangun menggunakan **Jetpack Compose** dan **Kotlin**.
+
+## 📥 Unduh Aplikasi (APK)
+Anda dapat mengunduh file APK siap pasang langsung melalui tab [**Releases**](https://github.com/Adammalik28/Mydigidaw/releases/latest) atau klik tombol unduh di atas.
 
 ## ✨ Fitur Utama
 
