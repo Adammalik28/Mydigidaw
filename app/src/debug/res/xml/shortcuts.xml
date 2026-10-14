@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_tx"
+        android:shortcutId="new_transaction"
+        android:shortcutLongLabel="@string/shortcut_tx_long"
+        android:shortcutShortLabel="@string/shortcut_tx_short">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="mydigidaw://new/transaction"
+            android:targetClass="com.example.mydigidaw.MainActivity"
+            android:targetPackage="id.mydigidaw.app.debug" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_note"
+        android:shortcutId="new_note"
+        android:shortcutLongLabel="@string/shortcut_note_long"
+        android:shortcutShortLabel="@string/shortcut_note_short">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="mydigidaw://new/note"
+            android:targetClass="com.example.mydigidaw.MainActivity"
+            android:targetPackage="id.mydigidaw.app.debug" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_event"
+        android:shortcutId="new_event"
+        android:shortcutLongLabel="@string/shortcut_event_long"
+        android:shortcutShortLabel="@string/shortcut_event_short">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="mydigidaw://new/event"
+            android:targetClass="com.example.mydigidaw.MainActivity"
+            android:targetPackage="id.mydigidaw.app.debug" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_task"
+        android:shortcutId="new_task"
+        android:shortcutLongLabel="@string/shortcut_task_long"
+        android:shortcutShortLabel="@string/shortcut_task_short">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="mydigidaw://new/task"
+            android:targetClass="com.example.mydigidaw.MainActivity"
+            android:targetPackage="id.mydigidaw.app.debug" />
+    </shortcut>
+</shortcuts>

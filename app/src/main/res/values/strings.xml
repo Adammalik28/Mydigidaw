@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mydigidaw</string>
+    <string name="share_label">Simpan ke Mydigidaw</string>
+    <string name="shortcut_tx_short">Transaksi</string>
+    <string name="shortcut_tx_long">Catat transaksi baru</string>
+    <string name="shortcut_note_short">Catatan</string>
+    <string name="shortcut_note_long">Tulis catatan baru</string>
+    <string name="shortcut_event_short">Jadwal</string>
+    <string name="shortcut_event_long">Buat jadwal baru</string>
+    <string name="shortcut_task_short">Tugas</string>
+    <string name="shortcut_task_long">Tambah tugas baru</string>
+    <string name="widget_summary_description">Saldo, arus kas, dan jadwal hari ini</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nama berbeda agar build debug mudah dibedakan dari aplikasi utama di HP. -->
+    <string name="app_name">Mydigidaw Debug</string>
+</resources>

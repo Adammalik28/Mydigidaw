@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#FFFAFAFD</color>
+    <color name="shortcut_blue">#FF2A78D6</color>
+    <color name="shortcut_orange">#FFEB6834</color>
+    <color name="shortcut_aqua">#FF1BAF7A</color>
+    <color name="shortcut_violet">#FF4A3AA7</color>
+    <color name="brand_indigo">#FF4338CA</color>
+</resources>
